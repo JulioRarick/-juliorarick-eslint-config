@@ -1,13 +1,13 @@
 {
-  "name": "eslint-config",
+  "name": "@juliorarick/eslint-config",
   "version": "1.0.0",
   "description": "My ESlint Configs",
   "main": "index.js",
   "author": "Julio Rarick",
   "license": "ISC",
   "repository": {
-    "url": "juliorarick/eslint-config"
-  },  
+    "url": "git+https://github.com/juliorarick/eslint-config.git"
+  },
   "peerDependenciesMeta": {
     "typescript": {
       "optional": true
@@ -27,5 +27,12 @@
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "prettier": "^3.2.5"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/juliorarick/eslint-config/issues"
+  },
+  "homepage": "https://github.com/juliorarick/eslint-config#readme"
 }
