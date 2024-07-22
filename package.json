@@ -5,7 +5,9 @@
   "main": "index.js",
   "author": "Julio Rarick",
   "license": "ISC",
-  
+  "repository": {
+    "url": "juliorarick/eslint-config"
+  },  
   "peerDependenciesMeta": {
     "typescript": {
       "optional": true
