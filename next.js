@@ -19,7 +19,8 @@ module.exports = {
   },
   plugins: [
     'jsx-a11y',
-    '@typescript-eslint'
+    '@typescript-eslint',
+    'simple-import-sort'
   ],
   rules: {
     'prettier/prettier': ["error", {
@@ -43,6 +44,7 @@ module.exports = {
     'jsx-a11y/aria-unsupported-elements': 'warn',
     'jsx-a11y/role-has-required-aria-props': 'warn',
     'jsx-a11y/role-supports-aria-props': 'warn',
+    'simple-import-sort/imports': 'error',
   },
   settings: {
     react: {

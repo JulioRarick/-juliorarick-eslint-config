@@ -1,6 +1,6 @@
 {
   "name": "@juliorarickorg/eslint-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "My ESlint Configs",
   "main": "index.js",
   "author": "Julio Rarick",
@@ -26,6 +26,7 @@
     "eslint-plugin-promise": "^6.1.1",
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-simple-import-sort": "^12.1.1",
     "prettier": "^3.2.5"
   },
   "scripts": {
