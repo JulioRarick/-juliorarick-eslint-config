@@ -6,7 +6,7 @@
   "author": "Julio Rarick",
   "license": "ISC",
   "repository": {
-    "url": "https://github.com/juliorarick/eslint-config.git"
+    "url": "git+https://github.com/juliorarick/eslint-config.git"
   },
   "peerDependenciesMeta": {
     "typescript": {
