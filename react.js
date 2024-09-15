@@ -21,6 +21,7 @@ module.exports = {
   },
   plugins: [
     'react',
+    'import',
     'jsx-a11y',
     '@typescript-eslint',
     'simple-import-sort'
